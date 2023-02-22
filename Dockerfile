@@ -1,1 +1,0 @@
-RUN bash ./init.sh
